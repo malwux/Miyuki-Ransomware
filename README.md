@@ -7,3 +7,5 @@ I plan to update it with new features such as leaving a random message in the en
 For now, this is either the first or the last version—it depends on how well I do.
 
 https://github.com/user-attachments/assets/2e0ec782-946b-4222-b857-0d5a4c320dea
+
+(I couldn't convert it to a GIF because of the 10 MB limit, greetings to all!)
